@@ -1,8 +1,4 @@
-/* =============================
-
-    GENERAL STYLES
-
-=============================*/
+/*==== GENERAL STYLES ====*/
 
 * {
     box-sizing: border-box;
@@ -61,7 +57,7 @@
   /* ====  HEADER STYLES ====*/
   
   .cover {
-    background: url('../Pictures/h&f\ 02.jpg') no-repeat 70% center/cover;
+    background: url('../Pictures/h&f\ 02.jpg') no-repeat 50% center/cover;
     display: table;
     text-align: center;
     height: 100vh;
@@ -90,7 +86,7 @@
   
   .hero-text h1 {
     font-size: 3.15rem;
-    color: #d2ba87;
+    color: #e2b758; /*modified, hf, 2022.02.15.*/
     margin-bottom: 0; /* To negate the effect of the single-direction margin declaration. */
   }
   
@@ -192,7 +188,7 @@
     width: 100%;
     text-align: left;
     background: hsla(100,0%,0%,.6);
-    color: #d2ba87;
+    color: #e2b758; /*modified, hf, 2022.02.15.*/
     font-family: 'Muli', sans-serif;
   }
   
@@ -230,15 +226,11 @@
   }
   
   
-  /* =============================
-  
-          FAQ STYLES
-  
-  =============================*/
+  /* ==== FAQ STYLES ====*/
   
   .faq {
     background: hsla(100,0%,0%,.6);;
-    color: #d2ba87;
+    color: #d4c49f; /*modified, hf, 2022.02.15.*/
     width: 100%;
     text-align: center;
   }
@@ -290,11 +282,7 @@
     margin-bottom: 1.5rem;
   }
   
-  /* =============================
-  
-          FOOTER STYLES
-  
-  =============================*/
+  /* ==== FOOTER STYLES ====*/
   
   footer {
     height: 10vh;
