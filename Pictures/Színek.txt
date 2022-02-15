@@ -1,0 +1,13 @@
+default text color: #444349 (grey)
+alternate text color: #d2ba87 (gold)
+header tagline and date color: hsla(0,0%,100%,.9);
+dark background: hsla(100,0%,0%,.6);
+link color: #bd806e
+link color on hover: #eda087
+footer background color: #606060
+
+Betűtípusok a Goole Fonts-ról:
+
+Great Vibes
+Libre Baskerville
+Muli
