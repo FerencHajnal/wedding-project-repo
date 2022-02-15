@@ -12,3 +12,6 @@ background pattern:
 cover photo:
 ceremony location:
 photoshoot location:
+party location:
+gifts:
+favicon:
