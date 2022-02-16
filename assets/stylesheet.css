@@ -57,7 +57,7 @@
   /* ====  HEADER STYLES ====*/
   
   .cover {
-    background: url('../Pictures/h&f\ 02.jpg') no-repeat 50% center/cover;
+    background: url('../Pictures/2021.06.23.\ -\ Heni&Feca-118.jpg') no-repeat 50% center/cover;
     display: table;
     text-align: center;
     height: 100vh;
@@ -67,7 +67,7 @@
   @media (min-width: 768px) {
   
     .cover {
-      background: url('../Pictures/h&f\ 02.jpg') no-repeat center/cover;
+      background: url('../Pictures/2021.06.23.\ -\ Heni&Feca-118.jpg') no-repeat center/cover;
     }
   
   }
